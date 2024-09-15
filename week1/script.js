@@ -6,7 +6,7 @@
  var sum = num1 + num2;
 
  // Show the result in the browser
- document.getElementById("result").textContent = "The sum of " + num1 + " and " + num2 + " is: " + sum;
+ document.getElementById ("result").textContent = "The sum of " + num1 + " and " + num2 + " is: " + sum;
 
 
    // Declare two numbers
