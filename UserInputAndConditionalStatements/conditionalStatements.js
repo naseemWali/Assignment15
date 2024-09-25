@@ -214,28 +214,108 @@
 // Compute & show the calculated result to user.
 
 
-var firstnum=Number(prompt('Enter first number'));
-var secondnum=Number(prompt('Enter the second number'));
-var operator=prompt('Enter the operation(+,-,*,/)');
+// var firstnum=Number(prompt('Enter first number'));
+// var secondnum=Number(prompt('Enter the second number'));
+// var operator=prompt('Enter the operation(+,-,*,/)');
 
-if (operator==='+') {
-  alert(firstnum+secondnum);
-}
-else if (operator==='-'){
- alert(firstnum-secondnum);
-}
-else if (operator==='*'){
-  alert(firstnum*secondnum);
- }
- else if (operator==='/'){
-  if (secondnum !== 0) {
-    alert(firstnum / secondnum); 
-  } else {
-    alert(' division by zero is not allowed.');
-  }
- }
- else if (operator === '%') {
-  alert(firstnum % secondnum); 
-} else {
-  alert(' Please enter +, -, *, /, or %.');
-}
+// if (operator==='+') {
+//   alert(firstnum+secondnum);
+// }
+// else if (operator==='-'){
+//  alert(firstnum-secondnum);
+// }
+// else if (operator==='*'){
+//   alert(firstnum*secondnum);
+//  }
+//  else if (operator==='/'){
+//   if (secondnum !== 0) {
+//     alert(firstnum / secondnum); 
+//   } else {
+//     alert(' division by zero is not allowed.');
+//   }
+//  }
+//  else if (operator === '%') {
+//   alert(firstnum % secondnum); 
+// } else {
+//   alert(' Please enter +, -, *, /, or %.');
+// }
+
+
+
+
+
+
+// assignment repeat just for practice
+// 1
+// var fullName='naseemwali';
+
+// 2.
+// var fatherName;
+// var fatherName='naseem';
+
+//3.
+// var teamName='123';
+// alert(teamName);
+
+//4.
+// var bestMan='charlie';
+// var bestMan='watson';
+
+//5
+// declare a variable "caseQty"
+// var caeQty;
+
+//6.
+// var caseQty=144;
+
+//7.
+//rewrite this statement so the variable can be used in a math operator?
+// var num="9";
+// answer var num=9;
+
+//  var num;
+//  num=2+3;
+
+//8.
+// var merchtotal=100;
+// var shippingcharge=10;
+// var ordertotal=merchtotal + shippingcharge;
+// console.log(ordertotal);
+
+//9.
+// var num=12;
+//  num=12+1;
+//  num=12*2;
+//  num=12/2;
+//  num=18%2;
+// console.log(num);
+
+// var num;
+// num=1;
+// document.write('value after variable declaration is ' + num);
+
+// 10
+
+// var num;
+// document.write('value after variable declaration is ' +  num)
+
+// var num=5;
+// document.write('initial value is ' + num); 
+
+//   num++;
+// document.write('value after increment is ' + num);
+
+// var num1= num+7;
+// document.write('value after addition is  ', num1);
+
+// --num1;
+// document.write('value after decrement is  ' + num1);
+
+// var newnum=num1%3;
+// document.write('the remainder is ' + newnum);
+
+// var oneticketfee=600;
+// var fiveticketfee=600*5;
+// document.write('cost of five tickets is  '  + fiveticketfee  +  ' PKR')
+
+
