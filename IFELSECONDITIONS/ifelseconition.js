@@ -339,3 +339,10 @@
 // const firstValue = stack.pop(); // Removes the last remaining element (1)
 // console.log(firstValue); // Output: 1
 // console.log(stack); // Output: []
+
+
+
+
+
+
+
